@@ -7,13 +7,13 @@ I completed a Higher National Diploma (Spain) in Web Application Development fro
 - Web scraping and data collection
 - Data mining and information extraction
 - Backend systems and software tooling
-- Software architecture and proces optimization
+- Software architecture and process optimization
 
  **I am open to**:
 
-- Collaboration on automation and scraping-related tools,
+- Collaborate on automation and scraping-related tools,
 - Web development and backend projects,
-- Sharing knowledge around scripting, backend design, and data workflows.
+- Share knowledge around scripting, backend design, and data workflows.
   
 ## Skills:
 
